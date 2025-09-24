@@ -1,10 +1,10 @@
 // Navigation functions
 function navigateToAstragames() {
-    window.open('https://astragames.ferretosan.com', '_blank');
+    window.location.href = 'https://astragames.ferretosan.com';
 }
 
 function navigateToMainWebsite() {
-    window.open('https://ferretosan.com', '_blank');
+    window.location.href = 'https://ferretosan.com';
 }
 
 function showComingSoon(gameName) {
