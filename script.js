@@ -8,5 +8,5 @@ function navigateToMainWebsite() {
 }
 
 function showComingSoon(gameName) {
-    alert(`${gameName} is coming soon! Stay tuned for updates.`);
+    window.location.href = 'https://blackjack.ferretosan.com';
 }
