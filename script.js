@@ -10,3 +10,7 @@ function navigateToMainWebsite() {
 function showComingSoon(gameName) {
     window.location.href = 'https://blackjack.ferretosan.com';
 }
+
+function navigateToMusic() {
+    window.location.href = 'https://music.ferretosan.com';
+}
